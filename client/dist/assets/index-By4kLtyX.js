@@ -1,0 +1,6 @@
+import{c as a}from"./index-DCJStnxC.js";/**
+ * @license lucide-react v0.469.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const l=a("Settings",[["path",{d:"M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z",key:"1qme2f"}],["circle",{cx:"12",cy:"12",r:"3",key:"1v7zrd"}]]),t=[{value:"bar",label:"Bar Chart"},{value:"Dailybar",label:"Daily Bar"},{value:"line",label:"Line Chart"},{value:"area",label:"Area Chart"}],r=[{value:"pie",label:"Pie Chart"},{value:"bar",label:"Bar Chart"}],n=["#FF6384","#36A2EB","#FFCE56","#4BC0C0","#9966FF","#FF9F40","#8AFF80","#FF80E5","#607D8B","#D32F2F"],s=["Other","Bills","Food","Entertainment","Transportation","EMI","Healthcare","Education","Investment","Shopping","Grocery","Fuel"];export{n as C,l as S,r as a,s as e,t};
